@@ -1,0 +1,78 @@
+body {
+    font-family: sans -serif;
+    line-height:1.6;
+  }
+  header {
+    background-color: #bc1e1e;
+    color: #fff;
+    padding: 1rem;
+  }
+  header h1 {
+    font-size: 3em;
+    margin-bottom: 0;
+  }
+  header nav {
+    margin-top: 1rem;
+  }
+  header nav a {
+    color:white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
+  header nav a:hover {
+    background-color: #4d8978;
+  }
+  main {
+    padding: 2rem;
+  }
+  section.hero {
+    
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+  }
+  section.hero h1 {
+    font-size: 2rem;
+    margin-top: 1rem;
+  }
+  section.hero p {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  section.hero a {
+    background-color: #000000;
+    color:greenyellow;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+  }
+  section.hero a:hover {
+    background-color: #333;
+  }
+  section.browse {
+    margin-top: 2rem;
+  }
+  section.browse h2 {
+    font-size: 2rem;
+    margin-bottom: 0;
+  }
+  section.browse ul {
+    margin-top: 1rem;
+  }
+  section.browse ul li {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  section.browse ul li a {
+    color: #000;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
+  section.browse ul li a:hover {
+    background-color: #333;
+  }
+  section.popular {
+    margin-top: 2rem;
+  }
+  section.popular h2 {
+    font-size:2rem;
+  }
